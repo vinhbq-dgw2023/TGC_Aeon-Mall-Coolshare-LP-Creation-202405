@@ -1,0 +1,1 @@
+# TGC_aujibun-bank-mockup_24-TGC02AMB
