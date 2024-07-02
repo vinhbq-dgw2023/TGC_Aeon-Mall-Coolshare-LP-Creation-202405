@@ -1782,6 +1782,7 @@ div.slide_content_title .slide_content_btn.close::after {
   margin: 11px 0 15px;
 }
 .modal_content .c_text_03_wrap.pc {
+  max-width: 52%;
   position: absolute;
   bottom: 25px;
 }
